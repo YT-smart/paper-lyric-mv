@@ -18,6 +18,15 @@
 
 默认规格为 **1920 × 1080、16:9 横屏、24 fps**，成片搭配歌曲音轨与动态歌词。
 
+## 🎬 成片展示：《莫愁乡》
+
+同一首《莫愁乡》由四个 AI 分别使用本 Skill 制作，保留在仓库中方便直接观看和比较：
+
+- [豆包 2.1 成片](videos/%E8%B1%86%E5%8C%85-%E8%8E%AB%E6%84%81%E4%B9%A1.mp4)
+- [Claude Opus 5.5 成片](videos/Claude-%E8%8E%AB%E6%84%81%E4%B9%A1.mp4)
+- [DeepSeek Flash 4.1 成片](videos/DeepSeek-%E8%8E%AB%E6%84%81%E4%B9%A1.mp4)
+- [GPT 6.1 Sol 成片](videos/GPT-%E8%8E%AB%E6%84%81%E4%B9%A1.mp4)
+
 ## 🚀 快速开始
 
 ### 1. 安装 Skill
